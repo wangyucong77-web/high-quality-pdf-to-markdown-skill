@@ -1,0 +1,4 @@
+interface:
+  display_name: "更高质量的 Skill 转换器"
+  short_description: "将中英文论文整理为人和 AI 均可顺序阅读、脚注可追溯的 Markdown"
+  default_prompt: "使用 $paper-reading-markdown 整理这篇论文：按阅读顺序保留完整学术内容，清理出版版式，建立可双向定位的脚注，并核对图表和 VS Code 阅读效果。"

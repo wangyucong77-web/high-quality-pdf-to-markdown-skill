@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="140" viewBox="0 0 760 140">
+  <rect width="760" height="140" fill="white"/>
+  <g fill="#eef4fb" stroke="#385b83" stroke-width="2">
+    <rect x="20" y="35" width="180" height="70" rx="8"/>
+    <rect x="290" y="35" width="180" height="70" rx="8"/>
+    <rect x="560" y="35" width="180" height="70" rx="8"/>
+  </g>
+  <g font-family="sans-serif" font-size="22" text-anchor="middle" fill="#172d44">
+    <text x="110" y="79">输入</text>
+    <text x="380" y="79">权限审查</text>
+    <text x="650" y="79">记录输出</text>
+  </g>
+  <g stroke="#385b83" stroke-width="3" fill="none">
+    <path d="M210 70 H275 M262 59 L275 70 L262 81"/>
+    <path d="M480 70 H545 M532 59 L545 70 L532 81"/>
+  </g>
+</svg>

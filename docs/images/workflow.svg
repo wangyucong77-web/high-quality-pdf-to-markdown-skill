@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="690" viewBox="0 0 1400 690">
+<rect width="100%" height="100%" fill="#f5f7fb"/>
+<text x="52" y="78" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="40" fill="#172a41">从论文 PDF，到可追溯的 Markdown</text>
+<text x="54" y="129" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="25" fill="#52657d">Skill 规定工作方法，Agent 执行整理，脚本辅助检查。</text>
+<rect x="52" y="183" width="236" height="269" rx="18" fill="white" stroke="#dce4f0" stroke-width="2"/>
+<text x="72" y="236" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="36" fill="#245be7">01</text>
+<text x="72" y="288" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="24" fill="#172a41">诊断原页</text>
+<text x="72" y="337" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="21" fill="#52657d">确认栏序与区块</text>
+<text x="72" y="373" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="21" fill="#52657d">独立登记源文清单</text>
+<text x="72" y="409" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="21" fill="#52657d">区分注释和文献</text>
+<polyline points="293,298 311,298" stroke="#245be7" fill="none" stroke-width="3"/>
+<polyline points="302,292 311,298 302,304" stroke="#245be7" fill="none" stroke-width="3"/>
+<rect x="318" y="183" width="236" height="269" rx="18" fill="white" stroke="#dce4f0" stroke-width="2"/>
+<text x="338" y="236" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="36" fill="#245be7">02</text>
+<text x="338" y="288" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="24" fill="#172a41">重建阅读顺序</text>
+<text x="338" y="337" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="21" fill="#52657d">接续跨页段落</text>
+<text x="338" y="373" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="21" fill="#52657d">恢复真实章节树</text>
+<text x="338" y="409" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="21" fill="#52657d">清理出版版式</text>
+<polyline points="559,298 577,298" stroke="#245be7" fill="none" stroke-width="3"/>
+<polyline points="568,292 577,298 568,304" stroke="#245be7" fill="none" stroke-width="3"/>
+<rect x="584" y="183" width="236" height="269" rx="18" fill="white" stroke="#dce4f0" stroke-width="2"/>
+<text x="604" y="236" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="36" fill="#245be7">03</text>
+<text x="604" y="288" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="24" fill="#172a41">保留内容与对应</text>
+<text x="604" y="337" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="21" fill="#52657d">原位置标记脚注</text>
+<text x="604" y="373" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="21" fill="#52657d">保留图表与原编号</text>
+<text x="604" y="409" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="21" fill="#52657d">必要图文转录</text>
+<polyline points="825,298 843,298" stroke="#245be7" fill="none" stroke-width="3"/>
+<polyline points="834,292 843,298 834,304" stroke="#245be7" fill="none" stroke-width="3"/>
+<rect x="850" y="183" width="236" height="269" rx="18" fill="white" stroke="#dce4f0" stroke-width="2"/>
+<text x="870" y="236" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="36" fill="#245be7">04</text>
+<text x="870" y="288" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="24" fill="#172a41">运行本地筛查</text>
+<text x="870" y="337" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="21" fill="#52657d">检查链接与资源</text>
+<text x="870" y="373" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="21" fill="#52657d">记录未匹配片段</text>
+<text x="870" y="409" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="21" fill="#52657d">按疑点查看原页</text>
+<polyline points="1091,298 1109,298" stroke="#245be7" fill="none" stroke-width="3"/>
+<polyline points="1100,292 1109,298 1100,304" stroke="#245be7" fill="none" stroke-width="3"/>
+<rect x="1116" y="183" width="236" height="269" rx="18" fill="white" stroke="#dce4f0" stroke-width="2"/>
+<text x="1136" y="236" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="36" fill="#245be7">05</text>
+<text x="1136" y="288" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="24" fill="#172a41">对照原文验收</text>
+<text x="1136" y="337" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="21" fill="#52657d">检查完整性与顺序</text>
+<text x="1136" y="373" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="21" fill="#52657d">核对每条引注</text>
+<text x="1136" y="409" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="21" fill="#52657d">验证阅读与跳转</text>
+<rect x="52" y="497" width="1296" height="130" rx="18" fill="#eaf0ff" stroke="#d3dffc" stroke-width="2"/>
+<text x="78" y="551" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="31" fill="#245be7">脚本无报错 ≠ 全文正确</text>
+<text x="78" y="593" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="25" fill="#172a41">内容、顺序、脚注原位置和图表数据，仍需源文证据。</text>
+</svg>

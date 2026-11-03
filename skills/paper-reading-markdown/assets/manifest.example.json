@@ -1,0 +1,63 @@
+{
+  "schema_version": "1.0",
+  "example_only": true,
+  "source": {
+    "filename": "示例论文.pdf",
+    "sha256": null,
+    "pdf_pages": 3,
+    "printed_page_scheme": null
+  },
+  "expected": {
+    "note_ids": ["1", "p003-01"],
+    "note_count": 2,
+    "figure_count": 1,
+    "table_count": 1,
+    "listing_count": 1,
+    "reference_count": 1
+  },
+  "sections": [
+    {"anchor": "section-1", "title": "一、研究对象", "pdf_pages": [2, 3]},
+    {"anchor": "section-1-1", "title": "（一）主体与工具", "pdf_pages": [2, 3]},
+    {"anchor": "appendix-a", "title": "附录A：原文提示词示例", "pdf_pages": [3]}
+  ],
+  "notes": [
+    {
+      "id": "1",
+      "original_label": "〔1〕",
+      "reference_pages": [2, 3],
+      "text_pages": [2],
+      "section_anchor": "section-1-1",
+      "reference_ids": ["ref-1", "ref-1-2"]
+    },
+    {
+      "id": "p003-01",
+      "original_label": "①",
+      "reference_pages": [3],
+      "text_pages": [3],
+      "section_anchor": "section-1-1",
+      "reference_ids": ["ref-p003-01"]
+    }
+  ],
+  "assets": [
+    {
+      "path": "example.assets/figure-01.svg",
+      "kind": "figure",
+      "original_label": "图1",
+      "anchor": "figure-1",
+      "pdf_pages": [2],
+      "text_transcription": true
+    }
+  ],
+  "excluded": [
+    {"category": "重复页眉与孤立页码", "pdf_pages": [1, 2, 3], "reason": "出版版式，无实质内容"}
+  ],
+  "uncertainties": [],
+  "review": {
+    "source_coverage_checked": false,
+    "reading_order_checked": false,
+    "note_positions_checked": false,
+    "figures_tables_checked": false,
+    "markdown_preview_checked": false,
+    "human_review_complete": false
+  }
+}

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="760" viewBox="0 0 1400 760">
+<rect width="100%" height="100%" fill="#f5f7fb"/>
+<text x="52" y="74" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="40" fill="#172a41">一条脚注，两处定位</text>
+<text x="54" y="121" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="24" fill="#52657d">图中内容为虚构示例，展示正文位置、原页原标与返回关系。</text>
+<rect x="52" y="174" width="548" height="434" rx="18" fill="white" stroke="#dce4f0" stroke-width="2"/>
+<rect x="802" y="174" width="546" height="434" rx="18" fill="white" stroke="#dce4f0" stroke-width="2"/>
+<text x="78" y="228" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="30" fill="#245be7">正文阅读流</text>
+<text x="78" y="290" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="26" fill="#172a41">## 一、研究对象</text>
+<text x="78" y="358" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="27" fill="#172a41">这是原文的一句话。〔1〕</text>
+<text x="78" y="422" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="25" fill="#52657d">下一句在这里继续。</text>
+<text x="78" y="498" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="23" fill="#172a41">标记留在原来的语义位置</text>
+<text x="78" y="542" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="23" fill="#52657d">不把所有注号挪到段落末尾</text>
+<text x="828" y="228" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="30" fill="#245be7">注释区</text>
+<text x="828" y="284" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="25" fill="#172a41">注1〔PDF第3页，原标1〕</text>
+<text x="828" y="338" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="23" fill="#172a41">对应章节：一、研究对象</text>
+<text x="828" y="383" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="23" fill="#172a41">引注文字：这是原文的一句话。</text>
+<text x="828" y="430" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="24" fill="#172a41">完整注释文本……</text>
+<text x="828" y="502" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="25" fill="#245be7">返回正文〔1〕</text>
+<text x="828" y="548" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="22" fill="#52657d">同号跨页另建唯一定位ID</text>
+<polyline points="612,344 788,344" stroke="#245be7" fill="none" stroke-width="3"/>
+<polyline points="779,338 788,344 779,350" stroke="#245be7" fill="none" stroke-width="3"/>
+<text x="625" y="323" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="22" fill="#245be7">查看注释</text>
+<polyline points="788,490 612,490" stroke="#245be7" fill="none" stroke-width="3"/>
+<polyline points="621,484 612,490 621,496" stroke="#245be7" fill="none" stroke-width="3"/>
+<text x="625" y="538" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="22" fill="#245be7">返回原处</text>
+<text x="54" y="679" font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" font-size="26" fill="#172a41">链接、原页、章节和定位短句一起保留，方便人阅读，也方便 AI 定位。</text>
+</svg>
